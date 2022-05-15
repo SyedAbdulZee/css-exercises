@@ -1,29 +1,31 @@
 .Num1 {
     color: black;
-    background-color: rgba(rgb(182, 3, 3), rgba(0, 128, 0, 0), rgba(0, 0, 255, 0));
+    background-color : lightcoral;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-.Num2 {
+#Num2 {
     color: blue;
     font-size: 36px;
 }
 
 .Num3 {
     color: black;
-    background-color: rgba(rgb(182, 3, 3), green, blue);
+    background-color: lightcoral;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 24px;
 }
 
-.Num4 {
+#Num4 {
     color: black;
-    background-color: rgb(rgba(255, 0, 0, 0), rgb(22, 199, 22), rgba(0, 0, 255, 0));
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bolder;
 
 }
 
 .Num5 {
     color: black;
-    background-color: rgba(rgb(182, 3, 3), rgba(0, 128, 0, 0), rgba(0, 0, 255, 0));
+    background-color: lightcoral;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
